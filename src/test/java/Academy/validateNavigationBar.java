@@ -24,7 +24,7 @@ public class validateNavigationBar extends base {
 
 	@Test
 
-	public void basePageNavigation() throws IOException, InterruptedException {
+	public void validateAppNavBar() throws IOException, InterruptedException {
 		Thread.sleep(3000);
 		LandingPage lp = new LandingPage(driver);
 		//compare the text from the browser with actual text.- Error..
