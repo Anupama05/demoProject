@@ -33,7 +33,7 @@ public class validateTitle extends base {
 		Thread.sleep(3000);
 		LandingPage lp = new LandingPage(driver);
 		//compare the text from the browser with actual text.- Error..
-		Assert.assertEquals(lp.getTitle().getText(), "FEATURED COURSES123");
+		Assert.assertEquals(lp.getTitle().getText(), "FEATURED COURSES");
 		log.info("Successfully verified Text message");
 
 	}

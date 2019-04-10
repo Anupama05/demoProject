@@ -1,0 +1,21 @@
+16:16:58.667 [main] INFO  resources.base - Non restricted User
+16:17:02.017 [main] INFO  resources.base - Driver is initialized
+16:17:18.836 [main] INFO  resources.base - Navigated to home page
+16:17:21.954 [main] INFO  resources.base - Successfully verified Text message
+10:27:06.933 [main] INFO  resources.base - Non restricted User
+10:27:11.304 [main] INFO  resources.base - Driver is initialized
+10:27:26.189 [main] INFO  resources.base - Navigated to home page
+10:27:29.290 [main] INFO  resources.base - Successfully verified Text message
+10:29:48.977 [main] INFO  resources.base - Non restricted User
+10:29:54.371 [main] INFO  resources.base - Driver is initialized
+10:30:10.198 [main] INFO  resources.base - Navigated to home page
+10:30:13.340 [main] INFO  resources.base - Successfully verified Text message
+10:31:38.335 [main] INFO  resources.base - Restricted User
+10:31:56.261 [main] INFO  resources.base - Non restricted User
+10:32:00.876 [main] INFO  resources.base - Driver is initialized
+10:32:16.037 [main] INFO  resources.base - Navigated to home page
+10:32:19.194 [main] INFO  resources.base - Successfully verified Text message
+10:52:17.002 [main] INFO  resources.base - Non restricted User
+10:52:21.545 [main] INFO  resources.base - Driver is initialized
+10:52:41.472 [main] INFO  resources.base - Navigated to home page
+10:52:44.591 [main] INFO  resources.base - Successfully verified Text message
